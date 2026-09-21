@@ -18,8 +18,8 @@ My work focuses on building reliable automation and validating software across m
 - 🖥️ **UI Automation** — Playwright, TypeScript, Selenium, Page Object Model, fixtures, reusable components, cross-browser testing
 - 🔌 **API & Backend Testing** — REST Assured, Postman, API workflow validation, service-level testing, SQL and database validation
 - 🧩 **Framework Engineering** — reusable architecture, test data management, configuration, authentication/session handling, parallel execution, reporting
-- 🔄 **CI/CD & Test Execution** — Jenkins, GitHub Actions, Docker, automated regression execution, test artifacts and reporting
-- 🔍 **Quality & Reliability** — flaky-test investigation, failure analysis, synchronization, execution optimization, logs, traces and observability
+- 🔄 **CI/CD & Test Execution** — Jenkins, GitHub Actions, Docker, automated regression execution, test artefacts and reporting
+- 🔍 **Quality & Reliability** — flaky-test investigation, failure analysis, synchronisation, execution optimisation, logs, traces and observability
 - 🔗 **End-to-End Validation** — validating workflows across UI → API → services → database layers
 
 
@@ -50,7 +50,7 @@ My work focuses on building reliable automation and validating software across m
 ## 🚀 Featured Projects
 
 ### 🎭 Playwright Automation Framework
-A TypeScript-based Playwright automation framework demonstrating framework architecture, reusable fixtures, Page Object Model, authentication/session management, test data handling, parallel execution, cross-browser testing, visual testing, reporting, Docker, and CI/CD integration.
+A TypeScript-based Playwright automation framework that demonstrates framework architecture, reusable fixtures, the Page Object Model, authentication/session management, test data handling, parallel execution, cross-browser testing, visual testing, reporting, Docker, and CI/CD integration.
 
 **Focus:** UI Automation · Framework Engineering · Reliability · CI/CD
 
@@ -73,14 +73,14 @@ I'm expanding my Quality Engineering skill set toward AI-assisted and intelligen
 
 - 🤖 **AI-assisted Test Automation** — exploring practical ways to use LLMs within automation and QA workflows
 - 🧪 **LLM Evaluation** — learning how to design reliable evaluation strategies for AI-powered systems
-- 🔍 **Intelligent Failure Analysis** — exploring automated classification and analysis of test failures, logs, traces, and execution artifacts
+- 🔍 **Intelligent Failure Analysis** — exploring automated classification and analysis of test failures, logs, traces, and execution artefacts
 - 🧩 **AI-driven QA Workflows** — exploring how AI agents and automation can assist with test generation, investigation, and quality engineering tasks
 
 
 
 
 ### 📩 How to Reach Me:
-- 📧 **Email:** prasadvaliv1992@gmail.com
+- 📧 **Email:** prasadvaliv92@gmail.com
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/prasad-valiv/
 - 🐦 **Twitter/X:** prasad_valiv
 
@@ -96,4 +96,4 @@ I'm expanding my Quality Engineering skill set toward AI-assisted and intelligen
 
 
 ---
-⭐ **If you like my work, consider giving a star to my repositories!** 🌟
+⭐ **If you like my work, consider giving a star to my repositories! **** 🌟
