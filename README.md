@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./wide_professional_tech_themed_banner_header_image.png" alt="Prasad Valiv — SDET | Quality Engineering | Automation" width="100%">
+  <img src="./profile-banner.png" alt="Prasad Valiv — SDET | Quality Engineering | Automation" width="100%">
 </p>
+
 
 ## 👋 Hi, I'm Prasad!
 
